@@ -63,7 +63,6 @@ export default function FoodScreen() {
                   name: place.name,
                   city: place.city,
                   type: place.type,
-                  rating: place.rating,
                 },
               })
             }
